@@ -9,4 +9,4 @@ Desktop Client for Windows or Mac is here.
 
 [Privacy Policy](https://ta2yak.github.io/widget-note/policy/en)
 
-[Teams & COnditions](https://ta2yak.github.io/widget-note/terms/en)
+[Teams & Conditions](https://ta2yak.github.io/widget-note/terms/en)
