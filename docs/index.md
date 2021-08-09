@@ -21,7 +21,7 @@ Desktop Client for Windows or Mac is here.
 [Teams & Conditions](https://ta2yak.github.io/widget-note/terms/en)
 
 
-## Contant
+## Contact
 
 If you have any questions or bug reports, please contact us at the email address below. We will respond immediately.
 
