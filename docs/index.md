@@ -2,7 +2,7 @@
 
 Widget Note is simple note widget for ios.
 
-![Widget Note](https://github.com/ta2yak/widget-note/blob/main/docs/images/top.png?raw=true "Widget Note")
+![Widget Note](https://github.com/ta2yak/widget-note/blob/main/docs/images/top-20210820.png?raw=true "Widget Note")
 
 
 
