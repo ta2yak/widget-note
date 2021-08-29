@@ -10,8 +10,8 @@ Widget Note is simple note widget for ios.
 
 Desktop Client for Windows or Mac is here.
 
-[Widget Note Desktop for Windows](https://github.com/ta2yak/WidgetNoteDesktop/releases/latest/download/Widget-Note-Desktop-Setup.exe)  
-[Widget Note Desktop for Mac](https://github.com/ta2yak/WidgetNoteDesktop/releases/latest/download/Widget-Note-Desktop.dmg)  
+[Widget Note Desktop for Windows](https://widget-note-desktop.s3.ap-northeast-1.amazonaws.com/Widget+Note+Desktop+Setup.exe)  
+[Widget Note Desktop for Mac](https://widget-note-desktop.s3.ap-northeast-1.amazonaws.com/Widget+Note+Desktop+Setup.dmg)  
 
 
 
