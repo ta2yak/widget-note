@@ -1,4 +1,7 @@
 # Widget Note
+Widget Note is simple note widget for ios.
+
+![Widget Note](https://github.com/ta2yak/widget-note/blob/main/docs/images/WidgetNote.png?raw=true "Widget Note")
 
 
 # Downloads
